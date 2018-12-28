@@ -1,6 +1,5 @@
 ## TS-MONOREPO
-Minimal example of a typescript monorepo setup
-
+A minimal example of a typescript monorepo setup
 
 ### Repo structure
 * packages/ contains all subrepos
@@ -17,4 +16,8 @@ We're using lerna and yarn to install and build all packages from the root dir:
 * Install all dependencies in all subrepos: 
 `yarn install`
  
+* Lint all subrepos: `yarn lint`
+
 * Use lerna to build all subrepos: `yarn build`
+
+* Release using lerna: `yarn release`

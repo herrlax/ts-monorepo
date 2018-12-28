@@ -1,7 +1,7 @@
 import * as React from "react";
 
 export interface IReynoldsProps {
-  name?: string
+  name?: string;
 }
 
 export class Reynolds extends React.Component<IReynoldsProps, any> {

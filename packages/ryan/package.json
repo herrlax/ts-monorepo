@@ -6,7 +6,8 @@
   "description": "",
   "license": "ISC",
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "lint": "tslint /src/*.ts{,x}"
   },
   "devDependencies": {
     "typescript": "^3.2.2",
