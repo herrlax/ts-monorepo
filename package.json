@@ -1,6 +1,7 @@
 {
   "private": true,
   "workspaces": [
+    "apps/*",
     "packages/*"
   ],
   "devDependencies": {
@@ -11,6 +12,6 @@
   "scripts": {
     "lint": "lerna run lint",
     "build": "lerna run build",
-    "release": "yarn lint && yarn build && lerna publish"
+    "release": "yarn lint && yarn build && lerna version"
   }
 }
