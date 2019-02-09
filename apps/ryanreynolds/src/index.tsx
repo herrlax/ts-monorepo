@@ -7,7 +7,7 @@ class Ryanreynolds extends React.Component {
   public render() {
     return (
       <>
-        <Ryan name="Ryan" />
+        <Ryan name="Ryan R" />
         <Reynolds name="Reynolds" />
       </>
     );
