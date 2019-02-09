@@ -9,14 +9,8 @@
     "build": "tsc",
     "lint": "tslint /src/*.ts{,x}"
   },
-  "devDependencies": {
-    "@types/node": "^10.12.18",
-    "@types/react": "^16.7.18",
-    "typescript": "^3.2.2"
-  },
   "dependencies": {
     "@me/reynolds": "1.0.0",
-    "@me/ryan": "1.0.0",
-    "react": "^16.7.0"
+    "@me/ryan": "1.0.0"
   }
 }

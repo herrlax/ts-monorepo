@@ -8,13 +8,5 @@
   "scripts": {
     "build": "tsc",
     "lint": "tslint /src/*.ts{,x}"
-  },
-  "devDependencies": {
-    "typescript": "^3.2.2",
-    "@types/node": "^10.12.18",
-    "@types/react": "^16.7.18"
-  },
-  "dependencies": {
-    "react": "^16.7.0"
   }
 }
