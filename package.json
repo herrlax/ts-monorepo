@@ -4,9 +4,6 @@
     "apps/*",
     "modules/*"
   ],
-  "dependencies": {
-    "react": "16.8.0"
-  },
   "devDependencies": {
     "lerna": "3.11.0",
     "tslint": "^5.12.0",

@@ -8,5 +8,8 @@
   "scripts": {
     "build": "tsc",
     "lint": "tslint /src/*.ts{,x}"
+  },
+  "dependencies": {
+    "react": "16.8.0"
   }
 }
