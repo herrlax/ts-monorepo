@@ -9,6 +9,7 @@ class Ryanreynolds extends React.Component {
       <>
         <Ryan name="Ryan R" />
         <Reynolds name="Reynolds" />
+        <p>I am Ryan Reynolds</p>
       </>
     );
   }
