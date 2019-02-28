@@ -1,6 +1,6 @@
 {
   "name": "@me/ryanreynolds",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "description": "",
@@ -10,8 +10,8 @@
     "lint": "tslint /src/*.ts{,x}"
   },
   "dependencies": {
-    "@me/reynolds": "1.0.0",
-    "@me/ryan": "1.0.0",
+    "@me/reynolds": "^1.0.1",
+    "@me/ryan": "^1.0.1",
     "react": "16.8.0"
   }
 }
