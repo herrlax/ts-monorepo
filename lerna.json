@@ -2,6 +2,6 @@
   "lerna": "3.11.0",
   "useWorkspaces": true,
   "packages": ["apps/*", "modules/*"],
-  "version": "fixed",
+  "version": "1.0.0",
   "npmClient": "yarn"
 }
