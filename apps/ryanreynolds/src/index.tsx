@@ -1,7 +1,7 @@
 import * as React from "react";
 
-import { Ryan } from "@me/ryan";
 import { Reynolds } from "@me/reynolds";
+import { Ryan } from "@me/ryan";
 
 class Ryanreynolds extends React.Component {
   public render() {
